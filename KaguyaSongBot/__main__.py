@@ -5,7 +5,7 @@ from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
 from KaguyaSongBot import app, LOGGER
-from KaguyaSongBot.mrdarkprince import ignore_blacklisted_users
+from KaguyaSongBot.anomaliii import ignore_blacklisted_users
 from KaguyaSongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
